@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<img height="100%" alt="Thanks for checking out my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+<hr/>
 - 🔭 I’m currently working on JS/React applications with a backend set up in Ruby on Rails
 <br/>
 - 🌱 I’m currently learning Pagination,Redux and using some design frameworks
@@ -59,6 +59,7 @@
 <br/>
 <h3>Skills & Experience: </h3>
 <p>React - Ruby - Ruby on Rails - SQL - JavaScript - Bootstrap - HTML - CSS - Java</p>
+<img height="100%" alt="Thanks for checking out my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 <!-- ## Let's Connect! -->
 [GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluwayemisi-s&show_icons=true)
 <!--  
