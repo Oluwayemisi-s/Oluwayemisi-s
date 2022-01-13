@@ -58,10 +58,15 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img height="100%" alt="Thanks for checking out my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
-- :telescope: I'm currently working on JS/React applications with a backend set up in Ruby
-- :seedling: I'm currently learning Pagination,Redux and using some design frameworks
-- :speech_balloon: Ask me about anything!
-- :crown: Fun fact: I love beauty and fashion and married a man that doesn't care about these.
+- 🔭 I’m currently working on JS/React applications with a backend set up in Ruby on Rails
+- 🌱 I’m currently learning Pagination,Redux and using some design frameworks
+- 👯 I’m looking to collaborate on projects and innovative ideas
+- 🤔 I’m looking for help with landing a position for a Junior software developer role
+- 💬 Ask me about coding, beauty and fashion
+- 📫 How to reach me: oluwayemisi.soremekun@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love beauty and fashion and married a man that doesn't care about these.
+<br/>
 ## Skills & Experience
 React - Ruby - Ruby on Rails - SQL - JavaScript - Bootstrap - HTML - CSS - Java
 <!-- ## Let's Connect! -->
