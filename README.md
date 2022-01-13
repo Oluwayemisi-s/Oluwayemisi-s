@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**Oluwayemisi-s/Oluwayemisi-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">  
   <samp>
   Welcome to my GitHub!
@@ -59,17 +42,25 @@ Here are some ideas to get you started:
 </p>
 <img height="100%" alt="Thanks for checking out my profile!" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 - 🔭 I’m currently working on JS/React applications with a backend set up in Ruby on Rails
+<br/>
 - 🌱 I’m currently learning Pagination,Redux and using some design frameworks
+<br/>
 - 👯 I’m looking to collaborate on projects and innovative ideas
+<br/>
 - 🤔 I’m looking for help with landing a position for a Junior software developer role
+<br/>
 - 💬 Ask me about coding, beauty and fashion
+<br/>
 - 📫 How to reach me: oluwayemisi.soremekun@gmail.com
+<br/>
 - 😄 Pronouns: She/Her
+<br/>
 - ⚡ Fun fact: I love beauty and fashion and married a man that doesn't care about these.
 <br/>
-## Skills & Experience
-React - Ruby - Ruby on Rails - SQL - JavaScript - Bootstrap - HTML - CSS - Java
+<h3>Skills & Experience: </h3>
+<p>React - Ruby - Ruby on Rails - SQL - JavaScript - Bootstrap - HTML - CSS - Java</p>
 <!-- ## Let's Connect! -->
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluwayemisi-s&show_icons=true)
 <!--  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Apang20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/avelon-pang-82327360//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AvelonP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://avelonpang.medium.com/)
 <!--
